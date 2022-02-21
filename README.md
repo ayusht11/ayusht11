@@ -1,24 +1,5 @@
 # Hey 👋
 
-<div>
-  <a href="https://stackoverflow.com/users/11818575/ayush-tiwari">
-    <code>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" alt="StackOverflow" width="22px">
-    </code>
-  </a>
-  <a href="https://angel.co/u/ayush-tiwari-32">
-    <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angellist.svg" alt="AngelList" width="22px"></code>
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-tiwari-160b94aa/">
-    <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" alt="Reddit" width="22px"></code>
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-tiwari-160b94aa/">
-    <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" alt="LinkedIn" width="22px"></code>
-  </a>
-  <a href="https://twitter.com/ayushadeveloper">
-    <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" alt="Twitter" width="22px"></code>
-  </a>
-</div>
 </br>
 
 <div>
